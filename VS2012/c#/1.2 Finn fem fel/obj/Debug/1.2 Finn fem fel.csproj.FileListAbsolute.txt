@@ -1,0 +1,5 @@
+P:\VS2012\1.2 Finn fem fel\bin\Debug\1.2 Finn fem fel.exe.config
+P:\VS2012\1.2 Finn fem fel\bin\Debug\1.2 Finn fem fel.exe
+P:\VS2012\1.2 Finn fem fel\bin\Debug\1.2 Finn fem fel.pdb
+P:\VS2012\1.2 Finn fem fel\obj\Debug\1.2 Finn fem fel.exe
+P:\VS2012\1.2 Finn fem fel\obj\Debug\1.2 Finn fem fel.pdb

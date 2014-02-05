@@ -1,0 +1,6 @@
+P:\VS2012\Laboration 2.2\bin\Debug\Laboration 2.2.exe.config
+P:\VS2012\Laboration 2.2\obj\Debug\Laboration 2.2.csprojResolveAssemblyReference.cache
+P:\VS2012\Laboration 2.2\bin\Debug\Laboration 2.2.exe
+P:\VS2012\Laboration 2.2\bin\Debug\Laboration 2.2.pdb
+P:\VS2012\Laboration 2.2\obj\Debug\Laboration 2.2.exe
+P:\VS2012\Laboration 2.2\obj\Debug\Laboration 2.2.pdb

@@ -1,0 +1,6 @@
+P:\VS2012\1.2\bin\Debug\1.2.exe.config
+P:\VS2012\1.2\obj\Debug\1.2.csprojResolveAssemblyReference.cache
+P:\VS2012\1.2\bin\Debug\1.2.exe
+P:\VS2012\1.2\bin\Debug\1.2.pdb
+P:\VS2012\1.2\obj\Debug\1.2.exe
+P:\VS2012\1.2\obj\Debug\1.2.pdb

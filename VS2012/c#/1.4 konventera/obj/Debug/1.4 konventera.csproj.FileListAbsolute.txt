@@ -1,0 +1,5 @@
+P:\VS2012\1.4 konventera\bin\Debug\1.4 konventera.exe.config
+P:\VS2012\1.4 konventera\bin\Debug\1.4 konventera.exe
+P:\VS2012\1.4 konventera\bin\Debug\1.4 konventera.pdb
+P:\VS2012\1.4 konventera\obj\Debug\1.4 konventera.exe
+P:\VS2012\1.4 konventera\obj\Debug\1.4 konventera.pdb

@@ -1,0 +1,5 @@
+P:\VS2012\Kassakvitto\Kassakvitto\bin\Kassakvitto.dll
+P:\VS2012\Kassakvitto\Kassakvitto\bin\Kassakvitto.pdb
+P:\VS2012\Kassakvitto\Kassakvitto\obj\Debug\Kassakvitto.csprojResolveAssemblyReference.cache
+P:\VS2012\Kassakvitto\Kassakvitto\obj\Debug\Kassakvitto.dll
+P:\VS2012\Kassakvitto\Kassakvitto\obj\Debug\Kassakvitto.pdb

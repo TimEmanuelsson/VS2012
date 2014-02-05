@@ -1,0 +1,5 @@
+P:\VS2012\1.6 produkten\bin\Debug\1.6 produkten.exe.config
+P:\VS2012\1.6 produkten\bin\Debug\1.6 produkten.exe
+P:\VS2012\1.6 produkten\bin\Debug\1.6 produkten.pdb
+P:\VS2012\1.6 produkten\obj\Debug\1.6 produkten.exe
+P:\VS2012\1.6 produkten\obj\Debug\1.6 produkten.pdb

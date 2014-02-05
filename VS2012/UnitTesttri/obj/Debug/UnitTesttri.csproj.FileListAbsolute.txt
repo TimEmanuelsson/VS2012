@@ -1,0 +1,7 @@
+P:\VS2012\UnitTesttri\bin\Debug\UnitTesttri.dll
+P:\VS2012\UnitTesttri\bin\Debug\UnitTesttri.pdb
+P:\VS2012\UnitTesttri\bin\Debug\Test1.exe
+P:\VS2012\UnitTesttri\bin\Debug\Test1.pdb
+P:\VS2012\UnitTesttri\obj\Debug\UnitTesttri.csprojResolveAssemblyReference.cache
+P:\VS2012\UnitTesttri\obj\Debug\UnitTesttri.dll
+P:\VS2012\UnitTesttri\obj\Debug\UnitTesttri.pdb
