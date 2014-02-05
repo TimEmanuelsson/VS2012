@@ -1,0 +1,9 @@
+C:\Users\Tim\Desktop\Visual Studio projekt\Labb 2.3\bin\Debug\Labb 2.3.exe.config
+C:\Users\te222ds\Downloads\Labb 2.3\bin\Debug\Labb 2.3.exe.config
+C:\Users\te222ds\Downloads\Labb 2.3\obj\Debug\Labb 2.3.csprojResolveAssemblyReference.cache
+P:\VS2012\Labb 2.3\bin\Debug\Labb 2.3.exe.config
+P:\VS2012\Labb 2.3\obj\Debug\Labb 2.3.csprojResolveAssemblyReference.cache
+P:\VS2012\Labb 2.3\bin\Debug\Labb 2.3.exe
+P:\VS2012\Labb 2.3\bin\Debug\Labb 2.3.pdb
+P:\VS2012\Labb 2.3\obj\Debug\Labb 2.3.exe
+P:\VS2012\Labb 2.3\obj\Debug\Labb 2.3.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.4 konventera", "1.4 konventera.csproj", "{3C17E75D-9187-4EBF-8E1D-B2ED8A0E3CAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C17E75D-9187-4EBF-8E1D-B2ED8A0E3CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C17E75D-9187-4EBF-8E1D-B2ED8A0E3CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C17E75D-9187-4EBF-8E1D-B2ED8A0E3CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C17E75D-9187-4EBF-8E1D-B2ED8A0E3CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

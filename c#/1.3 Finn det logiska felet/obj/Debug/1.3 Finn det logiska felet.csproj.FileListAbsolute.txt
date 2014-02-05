@@ -1,0 +1,5 @@
+P:\VS2012\1.3 Finn det logiska felet\bin\Debug\1.3 Finn det logiska felet.exe.config
+P:\VS2012\1.3 Finn det logiska felet\bin\Debug\1.3 Finn det logiska felet.exe
+P:\VS2012\1.3 Finn det logiska felet\bin\Debug\1.3 Finn det logiska felet.pdb
+P:\VS2012\1.3 Finn det logiska felet\obj\Debug\1.3 Finn det logiska felet.exe
+P:\VS2012\1.3 Finn det logiska felet\obj\Debug\1.3 Finn det logiska felet.pdb

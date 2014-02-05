@@ -1,0 +1,6 @@
+P:\VS2012\1.1 Laboration\bin\Debug\1.1 Laboration.exe.config
+P:\VS2012\1.1 Laboration\bin\Debug\1.1 Laboration.exe
+P:\VS2012\1.1 Laboration\bin\Debug\1.1 Laboration.pdb
+P:\VS2012\1.1 Laboration\obj\Debug\1.1 Laboration.csprojResolveAssemblyReference.cache
+P:\VS2012\1.1 Laboration\obj\Debug\1.1 Laboration.exe
+P:\VS2012\1.1 Laboration\obj\Debug\1.1 Laboration.pdb

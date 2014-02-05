@@ -1,0 +1,6 @@
+P:\VS2012\1.5 lotteriintäkt\bin\Debug\1.5 lotteriintäkt.exe.config
+P:\VS2012\1.5 lotteriintäkt\bin\Debug\1.5 lotteriintäkt.exe
+P:\VS2012\1.5 lotteriintäkt\bin\Debug\1.5 lotteriintäkt.pdb
+P:\VS2012\1.5 lotteriintäkt\obj\Debug\1.5 lotteriintäkt.csprojResolveAssemblyReference.cache
+P:\VS2012\1.5 lotteriintäkt\obj\Debug\1.5 lotteriintäkt.exe
+P:\VS2012\1.5 lotteriintäkt\obj\Debug\1.5 lotteriintäkt.pdb

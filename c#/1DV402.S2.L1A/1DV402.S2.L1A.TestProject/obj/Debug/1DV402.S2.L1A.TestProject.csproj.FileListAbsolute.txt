@@ -1,0 +1,7 @@
+P:\VS2012\1DV402.S2.L1A\1DV402.S2.L1A.TestProject\bin\Debug\1DV402.S2.L1A.TestProject.dll
+P:\VS2012\1DV402.S2.L1A\1DV402.S2.L1A.TestProject\bin\Debug\1DV402.S2.L1A.TestProject.pdb
+P:\VS2012\1DV402.S2.L1A\1DV402.S2.L1A.TestProject\bin\Debug\1DV402.S2.L1A.exe
+P:\VS2012\1DV402.S2.L1A\1DV402.S2.L1A.TestProject\bin\Debug\1DV402.S2.L1A.pdb
+P:\VS2012\1DV402.S2.L1A\1DV402.S2.L1A.TestProject\obj\Debug\1DV402.S2.L1A.TestProject.csprojResolveAssemblyReference.cache
+P:\VS2012\1DV402.S2.L1A\1DV402.S2.L1A.TestProject\obj\Debug\1DV402.S2.L1A.TestProject.dll
+P:\VS2012\1DV402.S2.L1A\1DV402.S2.L1A.TestProject\obj\Debug\1DV402.S2.L1A.TestProject.pdb

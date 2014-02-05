@@ -1,0 +1,6 @@
+P:\VS2012\1.3 laboration\bin\Debug\1.3 laboration.exe.config
+P:\VS2012\1.3 laboration\bin\Debug\1.3 laboration.exe
+P:\VS2012\1.3 laboration\bin\Debug\1.3 laboration.pdb
+P:\VS2012\1.3 laboration\obj\Debug\1.3 laboration.csprojResolveAssemblyReference.cache
+P:\VS2012\1.3 laboration\obj\Debug\1.3 laboration.exe
+P:\VS2012\1.3 laboration\obj\Debug\1.3 laboration.pdb
